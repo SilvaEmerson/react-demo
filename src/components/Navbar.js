@@ -1,5 +1,4 @@
 import React from 'react'
-import logo from '../logo.svg';
 
 const Navbar = (props) => (
     <nav className="navbar fixed-top navbar-expand-sm navbar-dark bg-dark">
